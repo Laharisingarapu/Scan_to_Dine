@@ -1,0 +1,2 @@
+Scan to Dine which improves Restaurant Productivity and Consumer Satisfaction with a QR Code Ordering System has come to transform the conventional dining experience by creating a web-based system that maximizes the order process for consumers and minimizes labor work for restaurant staff. 
+By incorporating QR codes at the tables, customers can quickly view the restaurant's menu, order, and pay directly using their mobile phones, thereby providing a smooth and efficient dining experience.
